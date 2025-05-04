@@ -1,10 +1,4 @@
-Claro! Abaixo está uma documentação detalhada do repositório [Dio-Collections](https://github.com/Varlen123/Dio-Collections), que reúne exercícios práticos sobre a API de Collections do Java, desenvolvidos durante o bootcamp da Digital Innovation One (DIO).
-
----
-
 ## 📚 Visão Geral
-
-O repositório **Dio-Collections** contém implementações práticas dos principais conceitos da API de Collections do Java. Os exercícios estão organizados em três diretórios principais, cada um abordando um tipo específico de coleção:([GitHub][1])
 
 * **List**: Listas ordenadas que permitem elementos duplicados.
 * **Set**: Conjuntos que não permitem elementos duplicados.
